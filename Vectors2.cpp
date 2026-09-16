@@ -29,4 +29,3 @@ int main() {
     cout<<answer[0]<<" , "<<answer[1]<<endl;
     return 0;
 }
-return 0;
